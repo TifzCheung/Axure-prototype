@@ -1,0 +1,49 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(253, 247, 238, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1922px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u234_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1913px;
+  height:7921px;
+}
+#u234 {
+  border-width:0px;
+  position:absolute;
+  left:9px;
+  top:0px;
+  width:1913px;
+  height:7921px;
+  display:flex;
+}
+#u234 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u234_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
